@@ -163,11 +163,4 @@ ADMIN / RESTAURANT OWNER
 ---
 
 
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/89339071/73d878c1-351d-4775-8eb0-1c94aa79c486/WhatsApp-Image-2025-12-25-at-14.25.03_81c911a7.jpg)
-[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/89339071/a48d50be-9b40-4fd6-bfc7-a487c5815b4e/image.jpg)
-[3](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/89339071/8878a270-5cb2-4263-a902-1b818e7ccc5b/image.jpg)
-[4](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/89339071/9762d4a4-ff31-48f6-bbd4-74717c0ade6f/image.jpg)
-[5](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/89339071/ac19949b-1356-4dd3-b5af-e6cadc674419/image.jpg)
-[6](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/89339071/77237028-19b3-4772-a981-b1a0a52489ca/image.jpg)
-[7](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/89339071/1a3d932d-df5d-48a0-9e72-4c41189731c3/image.jpg)
-[8](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/89339071/c918212f-b187-40c0-b6bd-88b38833c410/image.jpg)
+
